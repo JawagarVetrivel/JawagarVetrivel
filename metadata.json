@@ -1,0 +1,8 @@
+
+{
+  "name": "Jawagar Vetrivel Portfolio - Cinematic Experience",
+  "description": "An award-winning level portfolio landing page featuring immersive 3D elements, horizontal scrolling, and cinematic animations, showcasing the work of Jawagar Vetrivel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
