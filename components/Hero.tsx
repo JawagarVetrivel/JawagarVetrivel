@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
       {/* Content */}
       <div className="relative z-10 text-center px-6">
         <div ref={subRef} className="mb-6 tracking-[0.3em] uppercase text-sm font-medium opacity-60">
-          Portfolio &copy; 2024
+          Portfolio &copy; 2026
         </div>
         <h1 
           ref={titleRef}
